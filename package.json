@@ -1,0 +1,38 @@
+{
+  "name": "fiver-2.0",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.2",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@heroicons/react": "^2.0.16",
+    "@reduxjs/toolkit": "^1.9.3",
+    "autoprefixer": "^10.4.14",
+    "axios": "^1.3.4",
+    "bootstrap": "^5.2.3",
+    "framer-motion": "^10.8.4",
+    "install": "^0.13.0",
+    "next": "13.2.4",
+    "npm": "^9.6.2",
+    "postcss": "^8.4.21",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-intersection-observer": "^9.4.3",
+    "swiper": "^9.1.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "@tailwindcss/typography": "^0.5.9",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "tailwindcss": "^3.2.7"
+  }
+}
